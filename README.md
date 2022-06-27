@@ -1,9 +1,9 @@
 
-🔭 [I am](https://www.baskent.edu.tr/~msert/) an Associate Professor in the Department of Computer Engineering at Başkent University. I have [research](https://www.baskent.edu.tr/~msert/research.html/) and [teaching](https://www.baskent.edu.tr/~msert/current.html) interests in the theory and applications of audio signal processing, machine learning, deep learning for multimedia, and content modeling for multimedia search and retrieval.
+🔭 [I am](https://www.baskent.edu.tr/~msert/) an Associate Professor in the Department of Computer Engineering at Başkent University. I have [research](https://www.baskent.edu.tr/~msert/research.html) and [teaching](https://www.baskent.edu.tr/~msert/current.html) interests in the theory and applications of audio signal processing, machine learning, deep learning for multimedia, and content modeling for multimedia search and retrieval.
 
 💬 My current research interests include deep learning, computational audio analysis, speech processing, acoustic pattern recognition, audio-video content understanding, and multimodality.
 
-📫 Please refer to my [personal web site](https://www.baskent.edu.tr/~msert/) for further details.
+📫 Please refer to my [personal web site](https://www.baskent.edu.tr/~msert) for further details.
 
 <!-- ### Hi there 👋 
 
